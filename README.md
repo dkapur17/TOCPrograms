@@ -1,7 +1,5 @@
 # Automata Theory
 
-## Programming Assingments
-
 ### Q1. Regular Expression to NFA
 
 The input regular expression is first modified, by adding concatenation symbols where needed and enclosing paranthesis. It is then converted into its equivalent reverse Polish form so that we don't need to worry about deeply nested parantheses in the expression.
