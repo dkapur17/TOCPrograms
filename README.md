@@ -1,5 +1,14 @@
 # Automata Theory
 
+### Running any program
+
+All the programs have the same command format:
+```
+python3 program.py input.in output.out
+```
+
+Where `input.in` is the corresponding input file to said program and `output.out` is the file to which the output of the program will be written.
+
 ### Q1. Regular Expression to NFA
 
 The input regular expression is first modified, by adding concatenation symbols where needed and enclosing paranthesis. It is then converted into its equivalent reverse Polish form so that we don't need to worry about deeply nested parantheses in the expression.
